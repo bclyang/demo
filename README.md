@@ -1,2 +1,3 @@
-# demo
-Open Source Workshop Treehacks 2018
+## [OpenHack]: Your first PR!
+
+This is a demo repository for the PR workshop.
